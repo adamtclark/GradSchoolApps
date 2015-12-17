@@ -10,7 +10,7 @@ number_sections: no
 ---
   
 #Introduction
-This document is a short outline of some of the steps that can be involved in applying for a PhD program in ecology. These include some tips that I, and folks I've worked with over the years, have found helpful. This is definitely not the only way to go about things - you should always look in to the specifics of any program that you want to apply to. If you have any suggestions for how to improve this document, please let me know!
+This document is a short outline of some of the steps that can be involved in applying for a PhD program in ecology. These include some tips that I, and folks I've worked with over the years, have found helpful. This is definitely not the only way to go about things - you should always look in to the specifics of any program that you want to apply to. If you have any suggestions for how to improve this document, please let me know, either by emailing me at adam.tclark@gmail.com, or by updating the file at https://github.com/adamtclark/GradSchoolApps.
 
 #Is grad school what you want?
 Before you try to enroll in a PhD program, it's important to decide whether getting a PhD is really something that you want to do.
