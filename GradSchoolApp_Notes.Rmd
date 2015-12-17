@@ -4,7 +4,7 @@ author: |
   | Adam Clark
   | University of Minnesota
 date: "December 16, 2015"
-output: html_document
+output: pdf_document
 fig_caption: yes
 number_sections: no
 ---
