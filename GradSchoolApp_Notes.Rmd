@@ -1,0 +1,263 @@
+---
+title: 'The Graduate School Cookbook: One way to approach PhD applications in ecology'
+author: | 
+  | Adam Clark
+  | University of Minnesota
+date: "December 16, 2015"
+output: html_document
+fig_caption: yes
+number_sections: no
+---
+  
+#Introduction
+This document is a short outline of some of the steps that can be involved in applying for a PhD program in ecology. These include some tips that I, and folks I've worked with over the years, have found helpful. This is definitely not the only way to go about things - you should always look in to the specifics of any program that you want to apply to. If you have any suggestions for how to improve this document, please let me know!
+
+#Is grad school what you want?
+Before you try to enroll in a PhD program, it's important to decide whether getting a PhD is really something that you want to do.
+
+###Masters
+1. In many places and fields, a masters degree is expected before you can enroll in a PhD program. This is not the case for ecology PhD's in the US.
+2. Many people planning to eventually do a PhD in Ecology still find it helpful to complete a masters degree.
+3. Pros:
+    + Helps build research experience
+    + Helps you take courses or improve grades that might strengthen your application to a PhD program
+    + Helps you decide whether research is something that you want to do.
+4. Cons:
+    + Can cost a lot of money, especially in the US
+    + Can take extra time (usually two years)
+    + Could make you ineligible for some federal grants as a PhD student
+
+###PhD
+1. Three important considerations are how enrolling in a PhD program matches with your expectations for *purpose*, *timing*, and *funding*.
+2. The main purpose of most PhD programs is to teach you how to do original research.
+    + This does NOT mean that you have to commit to a life in academia - there are lots of jobs that involve research
+    + If your long-term career goal is not related to some kind of research, then you might want to think hard about how the skills you are likely to learn in a PhD program correspond to what you need for your "dream job".
+3. PhD programs take a long time (in ecology, usually at least 5 years)
+    + Does the idea of committing five years to doing research excite you?
+    + Do you need to start right away, or are there other things you want to do first?
+4. How do you want to get your funding, and how much do you need?
+    + Most PhD students in ecology are paid some sort of a stipend that covers their basic living costs, tuition, and health care
+    + Depending on the program, this funding will come as part of a fellowship, or as part of a 20-hour-per-week research or teaching job
+    + Would you be prepared to spend that much time teaching or working on other people's research?
+    + Can you (and the financial obligations you have) persist on a graduate student stipend? This is often in the neighborhood of $18,000 per year (for a 9-month appointment, plus some extra money to cover summer semester).
+    + Note - if you have federal student loans, you usually do not have to make payments on them, and you usually do not accrue any additional interest, during your time in a graduate program.
+
+#Finding a school
+###Look for professors, not schools
+Usually in ecology, you are applying to work with a specific person, rather than at a particular institution. (Though, for some programs, there are "lab rotations" where you try out working with lots of different potential advisers).
+
+There is one potential exception to this: big departments often have lots of people that you might be interested in working with, and sometimes offer full funding for all of their students without any teaching requirements.
+
+1. This can make it easier to do your own research
+2. It also means that if you decide to change research topics midway through a PhD, you will probably be able to find new advisers in that field
+
+###Which professors?
+There are a lot of ways to find potential advisers.
+
+1. Authors of papers or books you know and like
+2. Ask your professors or graduate students that you know
+3. Lab web pages on schools with good ecology departments
+4. Job postings on lists like "ECOLOG" (https://listserv.umd.edu/archives/ecolog-l.html)
+
+#GRE
+Most schools require the general portion of the GRE. Some will also say on their admissions page that you are required to take subject tests (though it's always worth checking with people at the university whether this is actually the case).
+
+1. Study!
+    + The GRE has two main sections: math, and verbal
+    + Even if you are or a math a verbal wiz, you should probably study.
+    + The math section covers lots of probability stuff that you may not remember, and the verbal section can contain some pretty obscure words
+    + For both sections, you should probably invest in a study guide. The test is timed, so there are lots of short-cuts and formulas that it might be worth memorizing
+    + You should also try some practice tests before you take your actual exam
+2. Timing
+    + Most people seem to give themselves between 1 and 3 months to study for the GRE (not full-time - evenings around classes or a job is fine)
+    + Make sure you schedule your exam in advance. There can be waiting lists, and testing dates vary greatly.
+3. Don’t sweat it!
+    + Your ability to do research, and get a potential adviser interested in you, usually matters more than your GRE score
+    + Don't let cut-offs on admissions websites scare you! Even if you don't meet them, many programs will still consider your application (even if this isn't explicitly stated on the admissions website)
+4. For ecology, math usually matters more
+5. Percentiles matter more than scores - Scores vary wildly depending on when you take the exam.
+6. Fee waivers exist
+    + The test can be quite expensive. If that is a problem, there are fee waiver options (but you might need to file FAFSA paperwork, so leave plenty of time to do so - e.g. a couple of months)
+
+#Funding sources: NSF, EPA STAR, etc
+Before you start contacting schools or potential advisers, you should look into funding sources. A number of government and private grants offer funding for some or all of your tuition and living expenses.
+
+###Places to look
+Some potential funding sources in ecology include:
+
+1. NSF GRFP (https://www.nsfgrfp.org/)
+2. EPA STAR (http://www.epa.gov/research-fellowships)
+3. USDA/DOE/DOD, and lots of other government acronyms
+    + Try Googling the acronym, plus "graduate fellowship"
+4. Hertz Fellowship (http://hertzfoundation.org/default.aspx)
+
+###Grant applications
+While specifics vary among grants, they are usually meant as an opportunity to make a “practice” project. In many cases, you aren't even obligated to actually do the project you propose - you are just trying to convince the grant agency that you are a good investment.
+
+For the NSF GRFP (probably the most common graduate fellowship to apply for in ecology), grant applications are due once every year sometime in October or November, and is open to all US citizens who have completed less than a year of graduate studies (in the field in which you are applying). The application includes two written parts.
+
+1. Personal statement/research history
+    + Space to describe your research experience and motivation for applying to graduate school
+    + Include qualifications, publications (though most applicants don't have these yet), presentations, etc, that you think make a convincing case that you will make a good researcher
+2. Research statement
+    + Needs to be exciting, and doable over the course of a PhD
+    + Much more important to convince the agency that you can make good research plans than it is for the plan to be exactly what you want to do
+    + "Broader impacts", or ways that your research will benefit the public, matter. Most of US science is funded by the public, and NSF expects you to contribute something in return. Make sure to read through NSF material on broader impacts before you write your proposal (http://www.nsf.gov/pubs/2007/nsf07046/nsf07046.jsp)
+
+There are two other major requirements:
+
+1. The application itself (found on the website listed above)
+2. Letters of recommendation
+      + These should be from people who can make a good case for why you will be a good researcher.
+3. Deadlines matter! Especially for the NSF GRFP, any application that is incomplete or incorrectly put together after the due date (including recommendation letters) will be thrown out. That really sucks!
+    + The NSF GRFP allows you to submit "extra" recommendation letters in case on of your letter writers flakes out. You should definitely do this, even if you feel awkward asking someone for a letter that you don't plan on using.
+
+By far the most important part of writing these kinds of grants is practice.
+
+1. As for help and get feedback from as many people as possible, and expect to write lots and lots of drafts
+2. Give yourself enough time (several months) to write a good application
+
+###Why should you apply?
+Free money!
+
+1. Funding without teaching or other requirements gives you the freedom to devote all your energy to a research project.
+2. Even if you like to teach, having a few years to travel, devote to field work, etc, can be invaluable.
+3. Grants are "sticky". They improve your CV, and give you extra time, which makes you more likely to get more grants in the future.
+
+
+They are also a useful exercise for helping you in your application process.
+1. Grant applications give you something to talk about to potential advisers and during graduate school interviews
+2. By applying to grants, you send a signal to potential advisers that you are a serious candidate
+
+#Choosing an adviser
+For most PhD programs in ecology, you are expected to have contacted an adviser (and ideally, convinced them that they want to take you on) before you actually apply to the program.
+
+Once you have a list of potential advisers that you might want to work with, you need to find a way to figure out where to actually apply. In general, I'd suggest starting with 10-20 potential advisers that you find interesting, and then whittling the list down to about 5 schools that you actually apply to.
+
+###What do consider?
+Once you have your "short list", think about trying some of the following things:
+
+1. Read some of their papers
+    + I'd suggest about 5 papers per adviser
+    + To help choose which papers, you might try to find 2 new papers, 2 famous papers (i.e. highly cited), and 1 cool paper that matches your interests really well
+2. Status?
+    + Are they accepting graduate students? Check out their website (though don't take it too seriously - many faculty never update their site)
+    + Are they tenured faculty? If not, is there a good chance that they would leave the school you are applying for before you finish your PhD?
+    + Do they have potential funding sources that could relieve you of teaching for some of your time as a PhD student?
+
+###How to find papers?
+This used to be a lot harder. These days, you can just check out Google scholar, which is usually even more up to date than Web of Science. If you have trouble getting copies of papers that look interesting, email them and ask for it! Folks are usually delighted to send you reprints.
+
+I'd suggest starting by looking for your potential adviser on Google Scholar, and then finding some of their most highly cited work. You can then look for papers cited within that paper, or papers that have cited that paper, in order to follow their work backwards and forwards in time, and find stuff that you find interesting.
+
+This is also a good way to find other potential advisers (e.g. coauthors on cool papers).
+
+###How to contact faculty?
+1. Write a letter to each of the people you are interested in
+    + I tried to keep it to less than 1 page, with a short introduction, a list of my skills, and a short description of why I was interested in working with them
+    + In many cases, I found I couldn't make a good case in the letter for why I wanted to go, which was a signal to me that I should not apply to work with that person
+2. Send a physical letter
+    + Most faculty get a ton of emails per day, and your message might get lost in the shuffle
+    + In your letter, tell then you will call them to set up a time to talk
+    + Once you are sure you letter has been delivered, call them! Even if you don't hear back from them, it is much more likely that they forgot about you, or lost your letter, than that they don't want to hear from you.
+3. With your letter, include a resume/CV, an *annotated* transcript (they don't know what "QualMath 2314" is), and your GRE scores and percentiles
+    + Try to capture their interest! Why are you special? (You are!) Why are you a good fit for your lab?
+
+#Phone interview
+Once you have connected with a potential adviser, you should probably try to schedule a short phone conversation with them before you submit your application.
+
+###How to prepare:
+1. If they are interviewing you, they probably like you
+    + Even if they sound gruff or intimidating, faculty usually don't hate you - they're just awkward (just like all of us in research)!
+    + During the interview, they are probably as interested in convincing you to apply as you are in convincing them to take you
+2. They have things to talk about
+    + Researchers love to talk about research, so you shouldn't worry about having a perfect script put together before you talk
+3. You have things to talk about!
+    + By now, you've read a bunch of their papers and put together some grant applications
+    + If you are nervous (I was), it might be a good idea to have a short script in front of you during the conversation with 5-6 bullet points from papers or grant applications that you can fall back
+4. Talk about your project
+    + Talk through some research ideas that you think are interesting, and see whether they think their lab would be a good match
+5. Ask to talk to grad students
+    + The best way to find out about a potential adviser is from their current advisees.
+    + Usually, current graduate students will be very honest about their experiences
+6. What department?
+    + You should ask which department in their university they think you should apply to.
+    + Funding options often differ drastically, and they probably know more than anybody else about where you will have the best experience.
+
+#Application
+Universities differ enormously in how applications are handled. In some places, professors have no say in what happens. In others, a faculty member who really wants you can get you admitted no matter what.
+
+Because of this, it's obviously important to take your application seriously (and give yourself lots of time to complete it well - there will be lots of annoying information that they want, and probably some written questions). But - don't take requirements too seriously. Even if you don't meet GPA or GRE cutoffs on the admissions website, there is a good chance that you will still be considered as an applicant.
+
+###General structure:
+1. Main application is similar to undergraduate applications
+2. Make it clear that you’ve talked to a potential adviser (and name them!)
+3. List other faculty that you want to meet with
+    + In preparation for the second round of the application process, most schools will ask for a list of faculty who you want to meet with. See section below for more details.
+4. Financial aid exists
+    + Especially if you are applying to lots of places the applications fees can add up. If this is a problem, you should look into fee waivers.
+    + Make sure you leave lots of time to do this, though. This might require interactions with FAFSA (usually the same one that you got for the GRE), etc, and can take several months.
+
+#Interview
+For most universities, if they like your initial application, you will be invited to a second round of interviews. This is an opportunity for you to convince faculty in person that you are worth admitting, and for faculty and potential advisers to convince you that you want to go there!
+
+###Travel costs
+An important thing to know is that the university should pay for your travel (airfare, etc) and accommodations for the interview - ecology is not medical school.
+
+###Preparing for the interview
+The main component of the interview will probably involve meeting with faculty members at the university. This will be a mix of the faculty that you listed on your application, plus additional faculty that think you are really cool and requested time with you.
+
+1. You will probably meet with something like 5-10 faculty members for 20 minutes - 1 hours each.
+    + As you did for your potential advisers, I'd suggest reading some of their papers ahead of time so that you have something ready to talk about
+    + Read 3-4 papers from each, again including new stuff, famous stuff, and cool stuff
+    + The talks should not be stressful - again, they are just as likely to be recruiting you as you are to be courting them
+    + Talk about any grant proposals you have written, and research ideas you have for graduate school
+    
+Additionally, the interview gives you a chance to meet with your potential adviser face to face.
+1. Talk about research!
+    + This should be an exciting opportunity to flush out the ideas you discussed over the phone
+    + Check out research facilities, see if you can visit potential field sites, etc.
+2. Size them up
+    + You will be working with this person for at least 4-5 years
+    + If you go into academia, this person will have an enormous influence on your future (and will be writing you recommendation letters for the rest of your lives)
+    + Can you imagine this kind of a commitment with them? Making sure that you "click" matters!
+3. Make sure to ask about funding options? How long could you be supported? With and without teaching? Is funding guaranteed?
+4. Make sure to find time to meet with their current graduate students informally (if they have any). I usually invited folks out for lunch or to a bar.
+
+#If you are not accepted:
+Don't take it personally. Funding is tight, and decisions can be pretty random. Try asking professors or administrators in the department what could have made application better.
+1. If you find that your grades or research experience was holding you back, you might want to think about trying a masters program before starting our PhD.
+2. Don't get discouraged. If you really want to do research, you'll find a way to do so. Just keep trying!
+
+#If you areare accepted:
+Find out as much as you can about the program before you sign up for it. If you have several options, don't let anybody rush you into making a decision. There is a legal deadline (usually sometime in April after GRFP awards come out) before which no graduate program can require you to commit to them.
+
+###Things to think about
+1. Course requirements
+    + How many courses would you need to take in the program? Is this okay with you?
+    + Does the university offer all of the kinds of courses that you want to take? Make sure to check when the courses were last taught - lots of places list classes that haven't been taught in decades on their website.
+2. Funding options
+    + PhD programs in ecology should offer you a living stipend, and cover all of your tuition. Ideally, they should also offer health insurance. You should NOT have to take out loans to complete a PhD in ecology.
+    + Can they offer you a fellowship for some period of time (i.e. funding without a teaching requirement?). If you have offers from multiple places, you might be able to bargain.
+    + Do they offer guaranteed funding for some number of years?
+    + If not, have they ever had to cut funding for any of their students? Why?
+    + Is funding contingent on having a TA or RA position?
+    + Are there opportunities for child care or family housing that meet your needs?
+3. Research money and resources
+    + Even if you have a stipend to cover your living expenses and tuition, you will still probably need research funding (e.g. to cover traveling to conferences, buying supplies, etc)
+    + Are there research grant opportunities available for students? Does your adviser have funding that you could use?
+    + If the research that you want to do requires specific equipment or field sites, will you have access to them at this university?
+    + Is there travel money that you can apply to for going to conferences, or studying abroad?
+    
+###How to choose?
+1. Do you like your adviser?
+    + If you like them, are you sure that they will remain at the university that you are applying to long enough for you to finish your degree?
+    + If not, are they willing to take you to any other universities that they move to? Are you willing to follow them?
+    + Are there other professors, staff, post-docs, etc. at the university that you would like to work with? You are probably going to do at least some research (and potentially a lot) with people who aren't your main adviser.
+2. Talk to grad students!!!
+    + Do they like the program? Do they have any regrets, or any advice?
+    + Do they like their advisers?
+    + Is your adviser "hands on" or "hands off"? Is that okay with you?
+
+#Finally:
+Don't worry too much! Everything will be okay.
