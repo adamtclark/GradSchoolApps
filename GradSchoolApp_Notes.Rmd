@@ -6,7 +6,7 @@ author: |
 date: "December 16, 2015"
 output: pdf_document
 fig_caption: yes
-number_sections: no
+number_sections: yes
 ---
   
 #Introduction
@@ -214,6 +214,7 @@ The main component of the interview will probably involve meeting with faculty m
     + Talk about any grant proposals you have written, and research ideas you have for graduate school
     
 Additionally, the interview gives you a chance to meet with your potential adviser face to face.
+
 1. Talk about research!
     + This should be an exciting opportunity to flush out the ideas you discussed over the phone
     + Check out research facilities, see if you can visit potential field sites, etc.
